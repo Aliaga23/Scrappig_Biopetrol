@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estaciones de Servicio Biopetrol para Corporativos</name>
+    <description>Cadena de Surtidores Biopetrol</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Estaciones de Servicio</name>
+      <Placemark>
+        <name>Biopetrol Berea</name>
+        <description><![CDATA[Doble Via La Guardia, Octavo Anillo    <br>GE+,<br>DO<br>GNV                   ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.2382944,-17.8376558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Royal</name>
+        <description><![CDATA[GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1978547,-17.8058635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Santos Dumont</name>
+        <description><![CDATA[GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1804526,-17.7998507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Chaco Gas</name>
+        <description><![CDATA[GE+<br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1635305,-17.782429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Alemania</name>
+        <description><![CDATA[GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1710233,-17.7689941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Beni</name>
+        <description><![CDATA[GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1787729,-17.7694328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Lopez </name>
+        <description><![CDATA[GE+<br>SE 92 <br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1653759,-17.7257633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Paraguá</name>
+        <description><![CDATA[GE+<br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.149406,-17.7650579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Equipetrol</name>
+        <description><![CDATA[GE+<br>SE 92 <br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.196924,-17.7543934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Piraí</name>
+        <description><![CDATA[GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.2044127,-17.7859127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Cabezas</name>
+        <description><![CDATA[GE+<br>DO]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.3142546,-18.7873344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Camiri - Parapetí</name>
+        <description><![CDATA[GE+<br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.5329244,-20.0229594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surtidor Gasco</name>
+        <description><![CDATA[Av. Cristo Redentor, 3er. Anillo<br>GE+<br>SE 92<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1795514,-17.759349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surtidor Viru Viru</name>
+        <description><![CDATA[Carretera CBBA. lado Parque Play Land Park<br>GE+<br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1592685,-17.6758342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surtidor La Teca</name>
+        <description><![CDATA[Carretera Cotoca <br>GE+<br>DO<br>GNV]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.0726331,-17.7635714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Montero - Monteverde</name>
+        <description><![CDATA[GE+<br>SE 92<br>DO]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.2696334,-17.3419306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Lucyfer Oruro</name>
+        <description><![CDATA[GE+<br>DO]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -67.100424,-17.9444202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MonteCristo</name>
+        <description><![CDATA[GE+<br>DO]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1095389,-17.765752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biopetrol Pascana</name>
+        <description>GNV</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -63.1205375,-17.7698681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Capa sin título</name>
+    </Folder>
+    <Folder>
+      <name>Capa sin título</name>
+    </Folder>
+  </Document>
+</kml>
